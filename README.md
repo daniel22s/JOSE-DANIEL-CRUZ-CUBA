@@ -20,6 +20,7 @@ Cloud, Infraestructura & Virtualización
 Redes, Seguridad & Monitoreo
 Desarrollo Backend & Bases de Datos
 Control de Versiones & Frontend
+
 📌 Proyectos Destacados
 
 📦 Sistema ERP de Control y Gestión de Isotanks: Sistema integral de depósito con modelado relacional en Supabase (PostgreSQL), triggers condicionales, seguridad RBAC y despliegue continuo en Vercel.
